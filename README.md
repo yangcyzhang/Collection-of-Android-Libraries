@@ -1,6 +1,5 @@
 # Collection-of-Android-Libraries
-Android 第三方库 长期维护版本
-List of Android Libraries
+Android 第三方库列表 长期维护
 ======================
 ### Index
 * [Networking](#networking)
